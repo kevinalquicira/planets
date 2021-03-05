@@ -1,2 +1,3 @@
 *.dat
 file.txt
+tmp/data1/*.*
